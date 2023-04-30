@@ -1,12 +1,12 @@
 # Title Database Scrapper
 This script scrapes game titles from the redump database for PS1 &amp; PS2
 
-# Gameid Conflict
+# Title Conflict
 
 The games listed share the same internal serial id with other games, so they may conflict and be assigned the wrong name. I recommend using an MD5 scan for these games to differentiate them.
 
 <details>
-  <summary> <h7> <b> PS1 Conflict </b> </h7> </summary>
+  <summary> <h7> <b> PS1 Title Conflict </b> </h7> </summary>
    <p>
   
  ```
@@ -17,7 +17,7 @@ The games listed share the same internal serial id with other games, so they may
 </details>
 
 <details>
-  <summary> <h7> <b> PS2 Conflict </b> </h7> </summary>
+  <summary> <h7> <b> PS2 Title Conflict </b> </h7> </summary>
    <p>
   
  ```
