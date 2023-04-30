@@ -3,12 +3,12 @@ This script scrapes game titles from the redump database for PS1 &amp; PS2
 
 # Gameid Conflict
 
+The games listed share the same identifier with other games, so they may conflict and be assigned the wrong name. I recommend using an MD5 scan for these games to differentiate them.
 
 <details>
   <summary> <h7> <b> PS2 Conflict </b> </h7> </summary>
    <p>
   
- The games listed share the same identifier with other games, so they may conflict and be assigned the wrong name. I recommend using an MD5 scan for these games to differentiate them.
  ```
 SLUS_202.73 Namco Museum 50th Anniversary
 SLPS_253.34 Shadow Hearts II (Disc 2)
