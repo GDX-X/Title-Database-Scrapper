@@ -3,7 +3,7 @@ This script scrapes game titles from the redump database for PS1 &amp; PS2
 
 # Gameid Conflict
 
-The games listed share the same serial id with other games, so they may conflict and be assigned the wrong name. I recommend using an MD5 scan for these games to differentiate them.
+The games listed share the same internal serial id with other games, so they may conflict and be assigned the wrong name. I recommend using an MD5 scan for these games to differentiate them.
 
 <details>
   <summary> <h7> <b> PS1 Conflict </b> </h7> </summary>
