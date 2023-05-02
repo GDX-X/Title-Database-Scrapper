@@ -10,7 +10,33 @@ The games listed share the same internal serial id with other games, so they may
    <p>
   
  ```
- SOON
+SLPS_015.27 Alive (Disc 1)
+SLPS_015.27 Alive (Disc 2)
+SLPS_015.27 Alive (Disc 3)
+
+SLPS_027.28 Breath of Fire IV: Utsurowazaru Mono
+SLPS_027.28 Breath of Fire IV: Utsurowazaru Mono (E3 Demo)
+
+SLPS_012.32 Bust A Move (Disc 1)
+SLPS_012.32 Bust A Move
+
+SCUS_945.03 1Xtreme
+SCUS_945.03 ESPN Extreme Games
+
+SCUS_941.67 Jet Moto 2
+SCUS_941.67 Jet Moto 2: Championship Edition
+
+SLUS_005.94 Metal Gear Solid (Disc 1)
+SLUS_005.94 Metal Gear Solid (Disc 1) (Demo)
+
+SCUS_941.61 PlayStation Underground Number 1 (Disc 2)
+SCUS_941.61 PlayStation Underground Number 1 (Disc 2)
+
+SLPS_017.22 Sougaku Toshi Osaka (Disc 1) (Method)
+SLPS_017.22 Sougaku Toshi Osaka (Disc 2) (Object)
+
+SLUS_005.15 The Lost World: Jurassic Park
+SLUS_005.15 The Lost World: Jurassic Park: Special Edition
  ```   
   ------
    </p>
