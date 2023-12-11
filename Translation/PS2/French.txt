@@ -1,0 +1,217 @@
+SLES_535.53 007 : Bons Baisers de Russie
+SLES_505.39 007 : Espion pour Cible
+SLES_520.46 007 : Quitte ou double
+SLES_525.21 Adibou et les voleurs d'Énergie
+SLES_517.61 Braquage à l'Italienne
+SLES_550.24 Bob L'éponge : Bulle en Atlantide
+SLES_536.23 Bob L'éponge : La Bataille de Bikini Bottom
+SLES_544.00 Bob L'éponge : La Créature du Crabe Croustillant
+SLES_528.96 Bob L'éponge : Le Film
+SLES_534.95 Bob L'éponge : Silence on Tourne!
+SLES_545.21 Bob L'éponge et ses Amis : Attaque sur l'île du Volcan
+SLES_529.07 Bob L'éponge et ses Amis : Bouge !
+SLES_549.91 Bob L'éponge et ses Amis : L'Attaque des robots-jouets
+SLES_552.71 Bob L'éponge et ses Amis : L'Ultime Alliance
+SLES_549.81 Bob le Bricoleur : On s'amuse comme des fous
+SCES_516.35 Brave : à la Recherche d'Esprit Danseur
+SLES_518.90 Buffy contre les Vampires : Chaos Bleeds
+SCES_533.05 Buzz! Le Quizz Musical
+SLES_541.67 Call of Duty 3 : En marche vers Paris
+SLES_527.83 Call of Duty : Le Jour de Gloire
+SLES_511.17 Colin McRae Rally 2003
+SLES_518.24 Colin McRae Rally 2004
+SLES_526.36 Colin McRae Rally 2005
+SLES_552.04 Crash : Génération Mutant
+SLES_503.86 Crash Bandicoot : La Vengeance de Cortex
+SLES_522.16 Disney's Le Manoir hanté et les 999 Fantômes
+SCES_509.60 Disney's Stitch : Expérience 626
+SLES_540.06 Disney-Pixar Cars Quatre Roues
+SLES_518.71 Disney-Pixar Le Monde de Nemo
+SLES_528.13 Disney-Pixar Les Indestructibles
+SLES_534.73 Disney-Pixar Les Indestructibles : La Terrible Attaque du Démolisseur
+SLES_539.74 Dragon Quest : L'Odyssée du roi maudit
+SLES_525.37 DreamWorks Gang de Requins
+SLES_500.15 FIFA 2001
+SLES_500.14 FIFA 2001
+SLES_500.13 FIFA 2001
+SLES_500.12 FIFA 2001
+SLES_500.11 FIFA 2001
+SLES_500.16 FIFA 2001
+SLUS_200.97 FIFA 2001
+SLES_504.71 FIFA 2002
+SLES_504.70 FIFA 2002
+SLES_504.69 FIFA 2002
+SLES_504.67 FIFA 2002
+SLES_504.65 FIFA 2002
+SLES_504.64 FIFA 2002
+SLES_504.66 FIFA 2002
+SLES_511.97 FIFA 2003
+SLED_513.42 FIFA 2003 (Demo)
+SLES_519.64 FIFA 2004
+SLES_519.63 FIFA 2004
+SLES_519.53 FIFA 2004
+SLES_525.63 FIFA 2005
+SLES_525.62 FIFA 2005
+SLES_525.61 FIFA 2005
+SLES_525.59 FIFA 2005
+SLES_525.60 FIFA 2005
+SLED_528.90 FIFA 2005 (Demo)
+SLES_535.29 FIFA 2006
+SLES_535.30 FIFA 2006
+SLES_535.31 FIFA 2006
+SLES_535.32 FIFA 2006
+SLES_535.33 FIFA 2006
+SLUS_291.60 FIFA 2006 (Demo)
+SLED_536.64 FIFA 2006 : Demo Pre-Release Version (Demo)
+SLES_542.46 FIFA 2007
+SLES_542.40 FIFA 2007
+SLES_542.44 FIFA 2007
+SLES_542.41 FIFA 2007
+SLES_542.43 FIFA 2007
+SLED_543.27 FIFA 2007 (Demo)
+SLES_548.72 FIFA 2008
+SLES_548.71 FIFA 2008
+SLES_548.70 FIFA 2008
+SLES_548.74 FIFA 2008
+SLES_548.73 FIFA 2008
+SLES_552.46 FIFA 2009
+SLES_552.47 FIFA 2009
+SLES_552.43 FIFA 2009
+SLES_552.44 FIFA 2009
+SLES_552.45 FIFA 2009
+SLES_555.85 FIFA 2010
+SLES_555.84 FIFA 2010
+SLES_555.83 FIFA 2010
+SLES_555.82 FIFA 2010
+SLES_555.81 FIFA 2010
+SLES_556.44 FIFA 2011
+SLES_556.43 FIFA 2011
+SLES_556.42 FIFA 2011
+SLES_556.54 FIFA 2012
+SLES_556.53 FIFA 2012
+SLES_556.52 FIFA 2012
+SLUS_219.54 FIFA 2013
+SLES_556.65 FIFA 2013
+SLES_556.64 FIFA 2013
+SLUS_270.93 FIFA 2014
+SLES_556.72 FIFA 2014
+SLES_556.71 FIFA 2014
+SLES_538.13 Friends : Celui qui répond à toutes les questions
+SCES_555.71 S.O.S. Fantômes : Le Jeu Vidéo
+SLES_517.87 Harry Potter : Coupe du Monde de Quidditch
+SLES_547.79 Harry Potter et l'Ordre du Phénix
+SLES_511.93 Harry Potter et la Chambre des Secrets
+SLES_537.28 Harry Potter et la Coupe de Feu
+SLES_552.49 Harry Potter et le Prince de Sang-Mêlé
+SLES_524.40 Harry Potter et le Prisonnier d'Azkaban
+SLES_520.55 Harry Potter à l'Ecole des Sorciers
+SLES_512.47 Inspecteur Gadget : L'Invasion des Robots Mad
+SLES_554.48 Indiana Jones et le Sceptre des Rois
+SLES_508.37 Indiana Jones et le Tombeau de l'Empereur
+SCES_516.08 Jak II : Hors-la-loi
+SLES_528.35 La Momie
+SLES_551.65 La Momie : La Tombe de l'Empereur Dragon
+SLES_505.10 La Momie : Le Retour de la momie
+SLES_512.27 Lara Croft Tomb Raider : L'Ange des ténèbres
+SLES_520.19 Le Seigneur des Anneaux : Le Retour du Roi
+SLES_528.02 Le Seigneur des Anneaux : Le Tiers Âge
+SLES_512.53 Le Seigneur des Anneaux : Les Deux Tours
+SLES_551.35 LEGO Batman : Le Jeu Vidéo
+SLES_509.37 LEGO Football Mania
+SLES_551.33 LEGO Indiana Jones : La Trilogie Originale
+SLES_531.94 LEGO Star Wars : Le Jeu Vidéo
+SLES_542.21 LEGO Star Wars II : La Trilogie Originale
+SLES_541.70 Les Dents de la Mer
+SLES_546.70 Les Fous Du Volant : Les Engins Zinzins
+SLES_501.83 Les Fous Du Volant : Satanas Et Diabolo
+SLES_541.26 Les Griffin : Le Jeu Vidéo
+SLES_512.57 Les Sims
+SLES_537.18 Les Sims 2
+SLES_543.47 Les Sims 2 : Animaux et Cie
+SLES_549.03 Les Sims 2 : Naufragés
+SLES_520.47 Les Sims : Permis de Sortir
+SLES_529.08 Les Urbz : Les Sims in the City
+SLES_546.83 Medal of Honor : Avant-garde
+SLES_508.45 Medal of Honor : En Première ligne
+SLES_533.33 Medal of Honor : Les Faucons de Guerre
+SLES_518.74 Medal of Honor : Soleil levant
+SLES_543.11 Oui-Oui et le Livre Magique
+SLES_536.54 Paris-Marseille Racing : Destruction Madness
+SLES_515.80 Paris-Marseille Racing : Edition Tour du Monde
+SLES_516.87 Pitfall : L'Expédition Perdue
+SLES_528.22 Prince of Persia : L'Âme du Guerrier
+SLES_537.77 Prince of Persia : Les Deux Royaumes
+SLES_519.18 Prince of Persia : Les Sables du Temps
+SLES_511.14 Pro Evolution Soccer 2002
+SLED_512.64 Pro Evolution Soccer 2002 (Demo)
+SLES_519.12 Pro Evolution Soccer 2003
+SLES_519.15 Pro Evolution Soccer 2003
+SLED_519.92 Pro Evolution Soccer 2003 (Demo)
+SLED_519.93 Pro Evolution Soccer 2003 (Demo)
+SLED_519.94 Pro Evolution Soccer 2003 (Demo)
+SLES_527.60 Pro Evolution Soccer 2004
+SLES_528.00 Pro Evolution Soccer 2004
+SLED_528.73 Pro Evolution Soccer 2004 (Demo)
+SLED_528.79 Pro Evolution Soccer 2004 (Demo)
+SLES_535.44 Pro Evolution Soccer 2005
+SLES_535.45 Pro Evolution Soccer 2005
+SLED_537.19 Pro Evolution Soccer 2005 (Demo)
+SLES_537.93 Pro Evolution Soccer 2005 (Demo)
+SLES_542.03 Pro Evolution Soccer 2006
+SLES_542.04 Pro Evolution Soccer 2006
+SLES_543.60 Pro Evolution Soccer 2006
+SLES_543.61 Pro Evolution Soccer 2006
+SLES_543.62 Pro Evolution Soccer 2006
+SLED_544.45 Pro Evolution Soccer 2006 (Demo)
+SLES_544.47 Pro Evolution Soccer 2006 (Demo)
+SLES_549.13 Pro Evolution Soccer 2008
+SLES_549.14 Pro Evolution Soccer 2008
+SLES_550.21 Pro Evolution Soccer 2008
+SLUS_216.85 Pro Evolution Soccer 2008
+SLED_550.22 Pro Evolution Soccer 2008 (Demo)
+SLES_550.23 Pro Evolution Soccer 2008 (Demo)
+SLES_554.05 Pro Evolution Soccer 2009
+SLES_554.06 Pro Evolution Soccer 2009
+SLUS_218.21 Pro Evolution Soccer 2009
+SLES_554.50 Pro Evolution Soccer 2009 (Demo)
+SLES_555.87 Pro Evolution Soccer 2010
+SLES_555.88 Pro Evolution Soccer 2010
+SLES_555.89 Pro Evolution Soccer 2010
+SLUS_219.18 Pro Evolution Soccer 2010
+SLED_556.02 Pro Evolution Soccer 2010 (Demo)
+SLES_556.04 Pro Evolution Soccer 2010 (Demo)
+SLES_556.36 Pro Evolution Soccer 2011
+SLES_556.37 Pro Evolution Soccer 2011
+SLES_556.38 Pro Evolution Soccer 2011
+SLUS_219.42 Pro Evolution Soccer 2011
+SLES_556.56 Pro Evolution Soccer 2012
+SLES_556.57 Pro Evolution Soccer 2012
+SLES_556.58 Pro Evolution Soccer 2012
+SLUS_219.48 Pro Evolution Soccer 2012
+SLES_556.66 Pro Evolution Soccer 2013
+SLES_556.67 Pro Evolution Soccer 2013
+SLES_556.68 Pro Evolution Soccer 2013
+SLES_556.69 Pro Evolution Soccer 2013
+SLUS_219.55 Pro Evolution Soccer 2013
+SLES_556.73 Pro Evolution Soccer 2014
+SLES_556.74 Pro Evolution Soccer 2014
+SLES_556.75 Pro Evolution Soccer 2014
+SLES_556.76 Pro Evolution Soccer 2014
+SCES_550.19 Ratchet & Clank : La taille, ça compte
+SLES_543.07 Rayman Contre les Lapins Crétins
+SLES_531.00 Scooby-Doo! : Démasqué
+SLES_510.18 Scooby-Doo! : La Nuit des 100 Frissons
+SLES_518.83 Scooby-Doo! : Le Livre des Ténèbres
+SLES_554.76 Scooby-Doo! : Opération Chocottes
+SLES_556.09 Scooby-Doo! : Panique dans la Marmite
+SLES_527.47 Shérif Fais-Moi Peur : Le Retour de Général Lee
+SCES_525.29 Sly 2 : Association de Voleurs
+SLES_549.01 Spider-Man : Allié ou Ennemi
+SLES_553.72 Spider-Man : Le Règne des Ombres
+SLES_531.56 Star Wars épisode III : La Revanche des Sith
+SCES_534.22 Stuart Little 3 : L'Aventure Photographique
+SLES_531.29 Tak 2 : Le Sceptre des Rêves
+SLES_531.92 Tim Burton's L'Étrange Noël de monsieur Jack : La Revanche d'Oog
+SLES_529.93 TimeSplitters 3 : Future Perfect
+SLES_539.91 Urban Chaos : Violence Urbaine
+SLES_523.42 Worms Forts : État de Siège
