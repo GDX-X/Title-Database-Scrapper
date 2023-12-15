@@ -2,7 +2,7 @@ SLES_535.53 007 : Bons Baisers de Russie
 SLES_505.39 007 : Espion pour Cible
 SLES_520.46 007 : Quitte ou double
 SLES_525.21 Adibou et les voleurs d'Énergie
-SLES_517.61 Braquage à l'Italienne
+SLES_517.23 Bilbo le Hobbit
 SLES_550.24 Bob L'éponge : Bulle en Atlantide
 SLES_536.23 Bob L'éponge : La Bataille de Bikini Bottom
 SLES_544.00 Bob L'éponge : La Créature du Crabe Croustillant
@@ -13,6 +13,7 @@ SLES_529.07 Bob L'éponge et ses Amis : Bouge !
 SLES_549.91 Bob L'éponge et ses Amis : L'Attaque des robots-jouets
 SLES_552.71 Bob L'éponge et ses Amis : L'Ultime Alliance
 SLES_549.81 Bob le Bricoleur : On s'amuse comme des fous
+SLES_517.61 Braquage à l'Italienne
 SCES_516.35 Brave : à la Recherche d'Esprit Danseur
 SLES_518.90 Buffy contre les Vampires : Chaos Bleeds
 SCES_533.05 Buzz! Le Quizz Musical
@@ -97,7 +98,6 @@ SLUS_270.93 FIFA 2014
 SLES_556.72 FIFA 2014
 SLES_556.71 FIFA 2014
 SLES_538.13 Friends : Celui qui répond à toutes les questions
-SCES_555.71 S.O.S. Fantômes : Le Jeu Vidéo
 SLES_517.87 Harry Potter : Coupe du Monde de Quidditch
 SLES_547.79 Harry Potter et l'Ordre du Phénix
 SLES_511.93 Harry Potter et la Chambre des Secrets
@@ -105,14 +105,16 @@ SLES_537.28 Harry Potter et la Coupe de Feu
 SLES_552.49 Harry Potter et le Prince de Sang-Mêlé
 SLES_524.40 Harry Potter et le Prisonnier d'Azkaban
 SLES_520.55 Harry Potter à l'Ecole des Sorciers
-SLES_512.47 Inspecteur Gadget : L'Invasion des Robots Mad
 SLES_554.48 Indiana Jones et le Sceptre des Rois
 SLES_508.37 Indiana Jones et le Tombeau de l'Empereur
+SLES_512.47 Inspecteur Gadget : L'Invasion des Robots Mad
 SCES_516.08 Jak II : Hors-la-loi
 SLES_528.35 La Momie
 SLES_551.65 La Momie : La Tombe de l'Empereur Dragon
 SLES_505.10 La Momie : Le Retour de la momie
 SLES_512.27 Lara Croft Tomb Raider : L'Ange des ténèbres
+SLES_509.88 Le Seigneur des Anneaux : La Communauté de l'Anneau
+SLES_555.74 Le Seigneur des Anneaux : La Quête d'Aragorn
 SLES_520.19 Le Seigneur des Anneaux : Le Retour du Roi
 SLES_528.02 Le Seigneur des Anneaux : Le Tiers Âge
 SLES_512.53 Le Seigneur des Anneaux : Les Deux Tours
@@ -199,6 +201,7 @@ SLES_556.75 Pro Evolution Soccer 2014
 SLES_556.76 Pro Evolution Soccer 2014
 SCES_550.19 Ratchet & Clank : La taille, ça compte
 SLES_543.07 Rayman Contre les Lapins Crétins
+SCES_555.71 S.O.S. Fantômes : Le Jeu Vidéo
 SLES_531.00 Scooby-Doo! : Démasqué
 SLES_510.18 Scooby-Doo! : La Nuit des 100 Frissons
 SLES_518.83 Scooby-Doo! : Le Livre des Ténèbres
