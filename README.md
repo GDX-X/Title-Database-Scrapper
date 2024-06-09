@@ -13,12 +13,15 @@ The games listed share the same internal serial id with other games, so they may
 SLPS_015.27 Alive (Disc 1)
 SLPS_015.27 Alive (Disc 2)
 SLPS_015.27 Alive (Disc 3)
+SLPS_015.27 Alive (Disc 1)
+SLPS_015.27 Alive (Disc 2)
+SLPS_015.27 Alive (Disc 3)
 
+SLPS_027.28 Breath of Fire IV (E3 Demo)
 SLPS_027.28 Breath of Fire IV: Utsurowazaru Mono
-SLPS_027.28 Breath of Fire IV: Utsurowazaru Mono (E3 Demo)
 
-SLPS_012.32 Bust A Move (Disc 1)
 SLPS_012.32 Bust A Move
+SLPS_012.32 Bust A Move (Disc 1) (Genteiban)
 
 SCUS_945.03 1Xtreme
 SCUS_945.03 ESPN Extreme Games
@@ -26,17 +29,54 @@ SCUS_945.03 ESPN Extreme Games
 SCUS_941.67 Jet Moto 2
 SCUS_941.67 Jet Moto 2: Championship Edition
 
-SLUS_005.94 Metal Gear Solid (Disc 1)
-SLUS_005.94 Metal Gear Solid (Disc 1) (Demo)
+SLPS_019.72 Kagayaku Kisetsu e
+SLPS_019.72 Kagayaku Kisetsu e (Disc 1) (Shokai Genteiban)
 
+SLPS_016.30 Kasei Monogatari
+SLPS_016.30 Kasei Monogatari (Genteiban)
+
+SLPS_024.56 Momotarou Dentetsu V
+SLPS_024.56 Momotarou Dentetsu V (Shokai Genteiban)
+
+SCUS_945.81 NBA ShootOut 2001
+SCUS_945.81 NBA ShootOut 2001 (Demo)
+
+SLPS_007.65 Namco Museum Encore
+SLPS_007.65 Namco Museum Encore (Shokai Gentei)
+
+SLPS_012.06 Naniwa Wangan Battle: Tarzan Yamada & AutoSelect Sawa Kyoudai
+SLPS_012.06 Naniwa Wangan Battle: Tarzan Yamada & AutoSelect Sawa Kyoudai (Taikenban)
+
+SLUS_001.90 Oddworld: Abe's Oddysee
+SLUS_001.90 Oddworld: Abe's Oddysee (Trade Demo)
+
+SCUS_941.61 PlayStation Underground Number 1 (Disc 1)
 SCUS_941.61 PlayStation Underground Number 1 (Disc 2)
-SCUS_941.61 PlayStation Underground Number 1 (Disc 2)
+
+SLPS_029.00 SD Gundam: GGeneration-F (Disc 1)
+SLPS_029.00 SD Gundam: GGeneration-F (Disc 1) (Tokubetsu-ban)
+
+SLPS_029.01 SD Gundam: GGeneration-F (Disc 2)
+SLPS_029.01 SD Gundam: GGeneration-F (Disc 2) (Tokubetsu-ban)
+
+SLPS_029.02 SD Gundam: GGeneration-F (Disc 3)
+SLPS_029.02 SD Gundam: GGeneration-F (Disc 3) (Tokubetsu-ban)
+
+SLPS_029.03 SD Gundam: GGeneration-F (Disc 4) (Premium Disc) (Limited Edition)
+SLPS_029.03 SD Gundam: GGeneration-F (Disc 4) (Premium Disc) (Tokubetsu-ban)
+
+SLPS_007.31 Sangoku Musou
+SLPS_007.31 Sangoku Musou (Taikenban)
 
 SLPS_017.22 Sougaku Toshi Osaka (Disc 1) (Method)
 SLPS_017.22 Sougaku Toshi Osaka (Disc 2) (Object)
 
+SLPS_023.15 Soukou Kihei Votoms: Koutetsu no Gunzei
+SLPS_023.15 Soukou Kihei Votoms: Koutetsu no Gunzei (Shokai Seisan Genteiban)
+
 SLUS_005.15 The Lost World: Jurassic Park
 SLUS_005.15 The Lost World: Jurassic Park: Special Edition
+
  ```   
   ------
    </p>
